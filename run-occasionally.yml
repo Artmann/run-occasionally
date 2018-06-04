@@ -1,0 +1,5 @@
+jobs:
+  - command: date
+    interval: "5s"
+  - command: echo every second
+    interval: "1s"
